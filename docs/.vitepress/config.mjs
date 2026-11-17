@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/panduan-aplikasi/',
   lang: 'id-ID',
   title: 'Panduan Aplikasi Mitra MLB',
   description: 'Panduan langkah demi langkah menggunakan aplikasi Mitra MLB',
