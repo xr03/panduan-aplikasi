@@ -1,36 +1,148 @@
 # Login dan verifikasi email
 
-Panduan ini menjelaskan cara masuk ke aplikasi dan memverifikasi email Anda.
+Panduan ini menjelaskan cara masuk ke aplikasi Mitra MLB dan memverifikasi email Anda.
 
-::: info Sebelum mulai
-Pastikan aplikasi sudah terpasang dan Anda bisa membuka email yang didaftarkan.
+::: warning Sebelum mulai
+Pastikan aplikasi Mitra MLB sudah terpasang dan nomor Anda terdaftar Whatsapp untuk menerima OTP.
 :::
 
 ## Langkah-langkah
 
-### 1. Buka aplikasi dan ketuk **Masuk**
+### 1. Buka aplikasi Mitra MLB
 
-![Input kode](./img/install-01-playstore.webp)
+Buka aplikasi Mitra MLB dan masukkan nomor yang sudah terdaftar sebagai member, lalu ketuk Lanjutkan.
 
-### 2. Masukkan email dan kata sandi
+<Shot
+src="./img/login-01-nomor.webp"
+alt="Masukkan nomor terdaftar"
+frame
+:marks="[
+{ x: 41, y: 50, n: 1, w: 50, h: 5 },
+{ x: 51, y: 59, n: 2, size: 23 }
+]"
+/>
 
-### 3. Cek email untuk kode verifikasi {#langkah-3}
+### 2. Ketuk LANJUTKAN
 
-Buka email Anda, lalu salin kode verifikasi yang dikirim.
+<Shot
+src="./img/login-02-lanjutkan.webp"
+alt="Ketuk LANJUTKAN"
+frame
+:marks="[
+{ x: 71, y: 87, size: 25 }
+]"
+/>
 
-### 4. Masukkan kode di aplikasi
+### 3. Masukkan OTP dari Whatsapp
 
-Selesai. Anda sekarang sudah masuk.
+Masukkan OTP yang dikirim melalui Whatsapp.
 
-## Kendala umum
+<Shot
+src="./img/login-03-otp.webp"
+alt="Masukkan OTP dari Whatsapp"
+frame
+:marks="[
+{ x: 49, y: 46, w: 70, h: 10 }
+]"
+/>
 
-::: details Email verifikasi tidak masuk
-Periksa folder spam. Jika belum ada, ketuk **Kirim ulang kode** dan tunggu 1-2 menit.
+### 4. Verifikasi email
+
+Masukkan email aktif Anda.
+
+<Shot
+src="./img/login-04-verifikasi-email.webp"
+alt="Verifikasi email"
+frame
+/>
+
+## Tips tentang email
+
+::: details Cara mengetahui alamat email Anda
+Buka aplikasi Gmail (biasanya berada di dalam folder Google)
+
+<Shot
+src="./img/login-05-gmail.webp"
+alt="Buka Gmail"
+frame
+:marks="[
+{ x: 49, y: 39, size: 30 }
+]"
+/>
+
+Ketuk icon profile di pojok kanan atas
+
+<Shot
+src="./img/login-06-profile-gmail.webp"
+alt="Ketuk icon profile"
+frame
+:marks="[
+{ x: 88, y: 8, size: 20 }
+]"
+/>
+
+Salin alamat email Anda yang berakhiran @gmail.com
+
+<Shot
+src="./img/login-07-alamat-email.webp"
+alt="Salin alamat email"
+frame
+:marks="[
+{ x: 44, y: 24, w: 50, h: 3}
+]"
+/>
 :::
 
-::: details Kode sudah kedaluwarsa
-Ketuk **Kirim ulang kode** untuk mendapatkan kode baru.
-:::
+### 5. Masukkan email
+
+Masukkan alamat email yang berhasil Anda copy sebelumnya, lalu ketuk Verifikasi.
+
+<Shot
+src="./img/login-08-masukkan-email.webp"
+alt="Masukkan email"
+frame
+:marks="[
+{ x: 48, y: 51, w: 65, h: 4, n: 1 },
+{ x: 50, y: 59, size: 20, n: 2 }
+]"
+/>
+
+### 6. Cek OTP pada email
+
+Copy OTP yang dikirim ke email Anda.
+
+<Shot
+src="./img/login-09-cek-email.webp"
+alt="Cek otp pada email"
+frame
+:marks="[
+{ x: 64, y: 31, size: 20 }
+]"
+/>
+
+### 7. Masukkan OTP dari email
+
+Masukkan OTP yang berhasil Anda copy dari email sebelumnya, kemudian ketuk Submit.
+
+<Shot
+src="./img/login-10-masukkan-otp-email.webp"
+alt="Masukkan OTP dari email"
+frame
+:marks="[
+{ x: 27, y: 27, size: 20, n: 1 },
+{ x: 49, y: 33, size: 20, n: 2 }
+]"
+/>
+
+### 8. Selamat, Anda berhasil login
+
+Anda berhasil login, dan aplikasi Mitra MLB siap digunakan.
+
+<Shot
+src="./img/login-11-berhasil-login.webp"
+alt="Berhasil login"
+frame
+/>
 
 ## Panduan terkait
 
