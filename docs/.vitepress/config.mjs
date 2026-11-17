@@ -8,6 +8,14 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  vue: {
+    template: {
+      transformAssetUrls: {
+        Shot: ['src']
+      }
+    }
+  },
+
   markdown: {
     image: { lazyLoading: true }
   },
