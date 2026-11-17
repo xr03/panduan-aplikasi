@@ -1,0 +1,23 @@
+.medium-zoom-overlay {
+  z-index: 100;
+}
+
+.medium-zoom-image--opened {
+  z-index: 101;
+  max-width: none;
+}
+
+/* Warna tanda: ubah di sini, berlaku untuk semua gambar */
+:root {
+  --shot-mark: #e53935;
+}
+
+/* Opsional: gaya untuk gambar Markdown biasa (bukan komponen Shot) */
+.vp-doc img:not(.shot-img) {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
