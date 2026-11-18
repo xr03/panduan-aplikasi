@@ -3,7 +3,7 @@
 Panduan ini menjelaskan cara login di banyak perangkat/HP.
 
 ::: warning Sebelum mulai
-Pastikan aplikasi Mitra MLB sudah berhasil login di perangkat/HP utama. Perangkat/HP utama adalah Perangkat/HP yang pertama kali berhasil login.
+Pastikan aplikasi Mitra MLB sudah berhasil login di perangkat/HP utama **(Perangkat/HP utama adalah Perangkat/HP yang berhasil login pertama kali)**.
 :::
 
 ## Langkah-langkah
@@ -23,7 +23,7 @@ frame
 
 ### 2. Ketuk menu Perangkat Terdaftar
 
-Geser ke bawah dan temukan menu **Perangkat Terdaftar** lalu ketuk.
+Dihalaman **Profile Saya** temukan menu **Perangkat Terdaftar** lalu ketuk.
 
 <Shot
 src="./img/multi-02-profile.webp"
@@ -47,7 +47,7 @@ frame
 
 ### 4. Login di perangkat/HP ke dua
 
-Buka aplikasi Mitra MLB di perangkat/HP ke dua, masukkan nomor yang terdaftar, kemudian Lanjutkan.
+**Sekarang pindah pada HP yang ke dua** lalu buka aplikasi Mitra MLB, masukkan nomor yang terdaftar, kemudian Lanjutkan.
 
 <Shot
 src="./img/login-01-nomor.webp"
@@ -61,7 +61,7 @@ frame
 
 ### 5. Menunggu konfirmasi
 
-Menunggu dikonfirmasi oleh perangkat/HP utama.
+Ini adalah tampilan HP ke dua yang menunggu dikonfirmasi oleh HP utama.
 
 <Shot
 src="./img/multi-16-menunggu-diterima.webp"
@@ -97,8 +97,6 @@ frame
 
 ### 8. Ketuk TERIMA
 
-Ketuk **TERIMA**.
-
 <Shot
 src="./img/multi-06-terima.webp"
 alt="Ketuk TERIMA"
@@ -131,7 +129,7 @@ frame
 
 ### 11. Ketuk nama perangkat/HP ke dua
 
-Ketuk nama perangkat/HP ke dua pada halaman manajemen perangkat.
+Setelah direfresh dan tampil nama perangkat/HP ke dua, ketuk nama perangkat/HP ke dua tersebut.
 
 <Shot
 src="./img/multi-09-list-perangkat.webp"
@@ -142,9 +140,9 @@ frame
 ]"
 />
 
-### 12. Ubah izin transaksi dan lainnya
+### 12. Ubah izin transaksi dan izin lainnya
 
-Ubah pengaturan izin transaksi dan lainnya, lalu ketuk **Simpan Perubahan**.
+Ubah pengaturan izin transaksi dan pengaturan izin lainnya, lalu ketuk **Simpan Perubahan**.
 
 <Shot
 src="./img/multi-10-izinkan-transaksi.webp"
@@ -211,7 +209,7 @@ frame
 ## Kesalahan umum
 
 ::: details Gagal login di perangkat ke dua
-Perangkat/HP ke dua tidak bisa login, penyebabnya perangkat/HP utama (yang pertama kali login) belum memberikan izin
+Di bawah ini adalah tampilan perangkat/HP ke dua yang tidak bisa login dikarenakan HP utama (yang pertama kali login) belum memberikan izin untuk login
 
 <Shot
 src="./img/multi-15-belum-diizinkan.webp"

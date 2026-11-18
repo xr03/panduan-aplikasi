@@ -70,7 +70,7 @@ frame
 ]"
 />
 
-Ketuk icon profile di pojok kanan atas
+Pada aplikasi Gmail, ketuk icon profile di pojok kanan atas
 
 <Shot
 src="./img/login-06-profile-gmail.webp"
@@ -109,7 +109,7 @@ frame
 
 ### 6. Cek OTP pada email
 
-Copy OTP yang dikirim ke email Anda.
+Buka aplikasi Gmail, kemudian cek email OTP yang masuk, lalu copy OTP-nya.
 
 <Shot
 src="./img/login-09-cek-email.webp"
@@ -122,7 +122,7 @@ frame
 
 ### 7. Masukkan OTP dari email
 
-Masukkan OTP yang berhasil Anda copy dari email sebelumnya, kemudian ketuk Submit.
+Masukkan OTP yang berhasil Anda copy dari email, kemudian ketuk Submit.
 
 <Shot
 src="./img/login-10-masukkan-otp-email.webp"
