@@ -2,7 +2,7 @@
 
 Panduan ini menjelaskan cara login di banyak perangkat/HP.
 
-::: warning Sebelum mulai
+::: danger Sebelum mulai
 Pastikan aplikasi Mitra MLB sudah berhasil login di perangkat/HP utama **(Perangkat/HP utama adalah Perangkat/HP yang berhasil login pertama kali)**.
 :::
 
@@ -171,7 +171,7 @@ frame
 
 ## Menghapus perangkat
 
-::: details Cara menghapus perangkat yang login
+::: tip Cara menghapus perangkat yang login
 Pada perangkat/HP utama, lalu di halaman manajemen perangkat, ketuk icon titik 3 pada perangkat yang ingin dihapus
 
 <Shot
@@ -208,7 +208,7 @@ frame
 
 ## Kesalahan umum
 
-::: details Gagal login di perangkat ke dua
+::: tip Gagal login di perangkat ke dua
 Di bawah ini adalah tampilan perangkat/HP ke dua yang tidak bisa login dikarenakan HP utama (yang pertama kali login) belum memberikan izin untuk login
 
 <Shot

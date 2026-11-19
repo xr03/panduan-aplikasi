@@ -2,7 +2,7 @@
 
 Panduan ini menjelaskan cara masuk ke aplikasi Mitra MLB dan memverifikasi email Anda.
 
-::: warning Sebelum mulai
+::: danger Sebelum mulai
 Pastikan aplikasi Mitra MLB sudah terpasang dan nomor Anda terdaftar Whatsapp untuk menerima OTP.
 :::
 
@@ -58,7 +58,7 @@ frame
 
 ## Tips tentang email
 
-::: details Cara mengetahui alamat email Anda
+::: tip Cara mengetahui alamat email Anda
 Buka aplikasi Gmail (biasanya berada di dalam folder Google)
 
 <Shot
